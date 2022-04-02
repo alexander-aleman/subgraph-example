@@ -1,0 +1,16 @@
+{
+  "name": "subgraph-example",
+  "version": "1.0.0",
+  "main": "failing-example.js",
+  "author": "Alexander Aleman",
+  "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "@apollo/subgraph": "^0.4.0",
+    "@graphql-tools/links": "^8.2.4",
+    "@graphql-tools/utils": "^8.6.5",
+    "@graphql-tools/wrap": "^8.4.6",
+    "apollo-server": "^3.6.5",
+    "graphql": "^16.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
