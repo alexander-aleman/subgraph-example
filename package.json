@@ -5,7 +5,7 @@
   "author": "Alexander Aleman",
   "dependencies": {
     "@apollo/client": "^3.5.10",
-    "@apollo/subgraph": "^0.4.0",
+    "@apollo/subgraph": "^2.0.2",
     "@graphql-tools/links": "^8.2.4",
     "@graphql-tools/utils": "^8.6.5",
     "@graphql-tools/wrap": "^8.4.6",
